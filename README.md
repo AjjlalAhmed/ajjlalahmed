@@ -1,7 +1,6 @@
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: To learn more about Nuxtjs
+- 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to play guitar
 
 I'm a self-taught passionate Full Stack Developer from Pakistan PK
