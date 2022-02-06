@@ -1,9 +1,11 @@
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently learning everything 
-- ⚡ Fun fact: I love to play guitar
+- 🌱 I’m currently learning everything. 
+- 🥅 Current goal is learning React js.
+- ⚡ Fun fact: I love to play guitar.
+- 💻 https://ajjlalahmed.vercel.app/ 
 
-I'm a self-taught passionate Full Stack Developer from Pakistan PK
+I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
 
 **Languages and Tools:**  
 
