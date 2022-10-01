@@ -9,7 +9,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ## 🔥 My Stats
 
-![](https://raw.githubusercontent.com/ajjlalahmed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Streak](https://raw.githubusercontent.com/ajjlalahmed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
