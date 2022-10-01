@@ -9,9 +9,9 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ## 🔥 Streak Stats
 
-[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajjlalahmed&count_private=true&theme=tokyonight&showicons=true)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmed&hide=scss&theme=tokyonight)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmed&langs_count=5&theme=tokyonight)]()
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajjlalahmed)]
 
