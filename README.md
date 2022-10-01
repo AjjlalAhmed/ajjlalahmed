@@ -11,8 +11,8 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 <table>
   <tr>
-    <td valign="top">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)/td>
-    <td valign="top">![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajjlalahmed&count_private=true&theme=tokyonight&showicons=true)/td>
+    <td valign="top"> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) </td>
+    <td valign="top"> ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajjlalahmed&count_private=true&theme=tokyonight&showicons=true) </td>
   </tr>
 </table>
 
