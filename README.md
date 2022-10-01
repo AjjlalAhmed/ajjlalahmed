@@ -15,7 +15,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajjlalahmed&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmedd&hide=scss&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmed&hide=scss&theme=tokyonight)]()
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajjlalahmed)]
 
