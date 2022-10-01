@@ -23,7 +23,3 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 
- ### ⚡ Recent GitHub Activity</b>
-  <br/>
-   <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=ajjlalahmed&theme=react-dark" /></a>
-  <br/>
