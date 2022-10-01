@@ -10,7 +10,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 ## ✨My Stats
 
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/ajjlalahmed/github-stats">
 <img src="https://github.com/ajjlalahmed/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/ajjlalahmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/ajjlalahmed/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
