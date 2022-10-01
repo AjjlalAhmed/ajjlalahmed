@@ -13,7 +13,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 
 <code>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronweijmer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajjlalahmed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
 </code>
 
 
