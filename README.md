@@ -10,6 +10,12 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronweijmer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
