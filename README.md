@@ -1,7 +1,6 @@
 ## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning everything. 
-- 🥅 Current goal is learning React js.
 - ⚡ Fun fact: I love to play guitar.
 - 💻 https://ajjlalahmed.vercel.app/ 
 
