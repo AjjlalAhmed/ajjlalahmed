@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything. 
 - ⚡ Fun fact: I love to play guitar.
-- 💻 [https://ajjlalahmed.vercel.app/ ](https://ajjlalahmed.netlify.app/)
+- 💻 [https://ajjlalahmed.netlify.app/ ](https://ajjlalahmed.netlify.app/)
 
 I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
 
