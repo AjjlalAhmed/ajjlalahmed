@@ -1,6 +1,6 @@
 ## I'm a Full Stack Developer
 
-<code><img src="https://komarev.com/ghpvc/?username=ajjlalahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ajjlalahmed" /></code>
+<code><img src="https://komarev.com/ghpvc/?username=ajjlalahmed&label=Profile%20views" alt="ajjlalahmed" /></code>
 
 - 🌱 I’m currently learning everything. 
 - ⚡ Fun fact: I love to play guitar.
