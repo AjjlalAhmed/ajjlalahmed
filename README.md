@@ -10,7 +10,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ## ✨My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajjlalahmed&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![@ajjlalahmed's Holopin board](https://holopin.io/api/user/board?user=ajjlalahmed)](https://holopin.io/@ajjlalahmed)
 
