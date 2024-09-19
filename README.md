@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to play guitar.
 - 💻 [https://ajjlalahmed.netlify.app/ ](https://ajjlalahmed.netlify.app/)
 
-I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
+I'm a self-taught Full Stack Developer from Pakistan, driven by a deep passion for technology and innovation. I love working in this field because it allows me to continuously learn, create, and contribute to solving real-world problems through code.
 
 ## ✨My Stats
 
