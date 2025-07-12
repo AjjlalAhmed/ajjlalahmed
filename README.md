@@ -4,14 +4,21 @@
 [![Website](https://img.shields.io/badge/Website-ajjlalahmed.netlify.app-blue?style=flat&logo=google-chrome)](https://ajjlalahmed.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajjlalahmed)
 
-I'm a self-taught Full Stack Developer from Pakistan, driven by a deep passion for technology and innovation. I love working in this field because it allows me to continuously learn, create, and contribute to solving real-world problems through code.
+I'm a self-taught Full Stack Developer from Pakistan and the creator of FastTempMail — a privacy-focused temporary email service. I’m passionate about building secure, performant, and user-centric web applications. I love turning ideas into scalable products and solving real-world problems through code.
 
-## 🚀 Quick Facts
+🚀 Quick Facts
 
-- 🌱 I'm currently learning: Everything! The tech world never stops evolving.
-- 🎸 Fun fact: I love to play guitar in my free time.
-- 💡 Always excited about: New technologies, clean code, and elegant solutions.
-- 🤝 Open to: Collaborations, interesting projects, and learning opportunities.
+⚡ Currently working on: FastTempMail – a secure, end-to-end encrypted temporary email platform.
+
+🌱 Always learning: Modern backend architectures, encryption, and performance optimization.
+
+🛠️ Favorite stack: Node.js, Vue/Nuxt, MySQL, and Tailwind CSS.
+
+💡 Excited about: Clean architecture, security-first development, and indie hacking.
+
+🤝 Open to: Collaborations, product ideas, and building privacy-focused tools.
+
+🎸 Fun fact: When I’m not debugging code, I’m probably strumming strings — music and code go hand in hand.
 
 ## 💻 Tech Stack
 
