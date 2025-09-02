@@ -2,8 +2,7 @@
 ### Full Stack Engineer At Turingoid | Creator of FastTempMail.com
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ajjlalahmed&label=Profile%20views&color=0e75b6&style=flat)
+
 [![Website](https://img.shields.io/badge/🌐_Portfolio-ajjlalahmed.netlify.app-4285f4?style=for-the-badge&labelColor=1a1b27)](https://ajjlalahmed.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge&labelColor=1a1b27)](https://www.linkedin.com/in/ajjlalahmed)
 [![Fiverr](https://img.shields.io/badge/💚_Fiverr-Quality_Developer-1DBF73?style=for-the-badge&labelColor=1a1b27)](https://www.fiverr.com/ajjlal_ahmed)
