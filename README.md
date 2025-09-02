@@ -37,7 +37,7 @@ Designs, develops, and deploys scalable web applications, utilizing front-end an
 - Built multiple client projects using modern tech stack (Vue.js, Nuxt, Node.js, Tailwind CSS)
 - Contributed to company growth and client satisfaction through innovative web solutions
 
-### 🎨 **Frontend Developer @ WebOptix** *(2023 - Present)*
+### 🎨 **Lead Developer @ WebOptix** *(2023 - Present)*
 Contributing to a Swiss web design agency specializing in custom websites and digital solutions for SMEs, startups, and individuals. Key responsibilities include:
 - Developing responsive, SEO-optimized websites using modern frontend technologies
 - Creating user-friendly interfaces with focus on exceptional user experience
