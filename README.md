@@ -94,7 +94,8 @@ const ajjlal = {
 
 ### 🔥 **CODE PERFORMANCE METRICS**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajjlalahmed&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=00F5FF&currStreakLabel=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajjlalahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00F5FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app?user=ajjlalahmed&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=00F5FF&currStreakLabel=FFFFFF" />
 
 <table align="center">
 <tr>
@@ -139,11 +140,13 @@ Vue.js + Node.js + Privacy Tech
 </tr>
 </table>
 
+### 📈 **CONTRIBUTION ACTIVITY**
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajjlalahmed&bg_color=0D1117&color=FF6B6B&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=🔥+CONTRIBUTION+HEATMAP" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" />
+### 💻 **CODE DISTRIBUTION**
 
-</div>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajjlalahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -153,7 +156,7 @@ Vue.js + Node.js + Privacy Tech
 
 ## 🏆 **ACHIEVEMENT UNLOCKED**
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajjlalahmed&theme=radical&no-frame=true&margin-w=15&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajjlalahmed&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
 
 </div>
 
