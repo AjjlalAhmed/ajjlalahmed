@@ -107,8 +107,8 @@ const ajjlal = {
 </td>
 <td align="center" width="33%">
 
-**⭐ EXPERTISE LEVEL**  
-Senior Full Stack
+**⭐ EXPERTISE**  
+Full Stack Developer
 
 </td>
 <td align="center" width="33%">
