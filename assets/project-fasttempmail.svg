@@ -1,0 +1,36 @@
+<svg width="440" height="200" viewBox="0 0 440 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c0c14"/>
+      <stop offset="100%" style="stop-color:#050507"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="200" rx="4" fill="url(#bg)" stroke="#e8ff00" stroke-width="0.5" stroke-opacity="0.3"/>
+  <!-- top accent -->
+  <rect width="440" height="3" rx="2" fill="#e8ff00"/>
+  <!-- icon area -->
+  <rect x="24" y="28" width="36" height="36" rx="6" fill="#e8ff00" opacity="0.1" stroke="#e8ff00" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="35" y="53" font-size="18">🔒</text>
+  <!-- label -->
+  <text x="72" y="40" font-family="'Courier New', monospace" font-size="9" fill="#e8ff00" letter-spacing="2" opacity="0.8">LIVE PRODUCT</text>
+  <text x="72" y="57" font-family="Georgia, serif" font-size="20" font-weight="900" fill="#f0ede8" letter-spacing="-0.5">FastTempMail.com</text>
+  <!-- divider -->
+  <line x1="24" y1="80" x2="416" y2="80" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.1"/>
+  <!-- description -->
+  <text x="24" y="106" font-family="'Courier New', monospace" font-size="11" fill="#8888aa">Privacy-first temporary email service</text>
+  <text x="24" y="124" font-family="'Courier New', monospace" font-size="11" fill="#8888aa">with end-to-end encryption.</text>
+  <!-- tags -->
+  <rect x="24" y="146" width="68" height="20" rx="10" fill="none" stroke="#334" stroke-width="1"/>
+  <text x="35" y="160" font-family="'Courier New', monospace" font-size="9" fill="#8888aa" letter-spacing="0.5">Node.js</text>
+  <rect x="100" y="146" width="52" height="20" rx="10" fill="none" stroke="#334" stroke-width="1"/>
+  <text x="111" y="160" font-family="'Courier New', monospace" font-size="9" fill="#8888aa" letter-spacing="0.5">Vue.js</text>
+  <rect x="160" y="146" width="50" height="20" rx="10" fill="none" stroke="#334" stroke-width="1"/>
+  <text x="171" y="160" font-family="'Courier New', monospace" font-size="9" fill="#8888aa" letter-spacing="0.5">MySQL</text>
+  <!-- arrow -->
+  <text x="400" y="172" font-family="'Courier New', monospace" font-size="18" fill="#e8ff00" opacity="0.7">↗</text>
+  <!-- bottom status -->
+  <circle cx="32" cy="182" r="4" fill="#e8ff00">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="44" y="186" font-family="'Courier New', monospace" font-size="9" fill="#e8ff00" letter-spacing="1">fasttempmail.com</text>
+</svg>

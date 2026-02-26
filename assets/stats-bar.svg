@@ -1,0 +1,23 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="90" fill="#0a0a10"/>
+  <!-- dividers -->
+  <line x1="225" y1="15" x2="225" y2="75" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.1"/>
+  <line x1="450" y1="15" x2="450" y2="75" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.1"/>
+  <line x1="675" y1="15" x2="675" y2="75" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.1"/>
+
+  <!-- Stat 1 -->
+  <text x="112" y="46" font-family="Georgia, serif" font-size="36" font-weight="900" fill="#f0ede8" text-anchor="middle" letter-spacing="-2">4<tspan fill="#e8ff00">+</tspan></text>
+  <text x="112" y="68" font-family="'Courier New', monospace" font-size="9" fill="#5a5a6e" text-anchor="middle" letter-spacing="2">YEARS EXP</text>
+
+  <!-- Stat 2 -->
+  <text x="337" y="46" font-family="Georgia, serif" font-size="36" font-weight="900" fill="#f0ede8" text-anchor="middle" letter-spacing="-2">57<tspan fill="#e8ff00">+</tspan></text>
+  <text x="337" y="68" font-family="'Courier New', monospace" font-size="9" fill="#5a5a6e" text-anchor="middle" letter-spacing="2">REPOS</text>
+
+  <!-- Stat 3 -->
+  <text x="562" y="46" font-family="Georgia, serif" font-size="36" font-weight="900" fill="#f0ede8" text-anchor="middle" letter-spacing="-2">5<tspan fill="#e8ff00">★</tspan></text>
+  <text x="562" y="68" font-family="'Courier New', monospace" font-size="9" fill="#5a5a6e" text-anchor="middle" letter-spacing="2">FIVERR</text>
+
+  <!-- Stat 4 -->
+  <text x="787" y="46" font-family="Georgia, serif" font-size="36" font-weight="900" fill="#f0ede8" text-anchor="middle" letter-spacing="-2">2<tspan fill="#e8ff00">+</tspan></text>
+  <text x="787" y="68" font-family="'Courier New', monospace" font-size="9" fill="#5a5a6e" text-anchor="middle" letter-spacing="2">LIVE PRODUCTS</text>
+</svg>
