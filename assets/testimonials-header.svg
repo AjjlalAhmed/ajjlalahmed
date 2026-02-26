@@ -1,0 +1,7 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="100" fill="#050507"/>
+  <rect x="0" y="0" width="3" height="100" fill="#e8ff00"/>
+  <text x="24" y="28" font-family="'Courier New', monospace" font-size="10" fill="#e8ff00" letter-spacing="4">05 — TESTIMONIALS</text>
+  <text x="24" y="62" font-family="Georgia, serif" font-size="32" font-weight="900" fill="#f0ede8" letter-spacing="-1">What clients say.</text>
+  <text x="24" y="85" font-family="'Courier New', monospace" font-size="11" fill="#5a5a6e" letter-spacing="1">14 reviews · All 5-star · Fiverr verified</text>
+</svg>

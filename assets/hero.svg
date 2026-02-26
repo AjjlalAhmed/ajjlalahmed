@@ -8,50 +8,29 @@
       <stop offset="0%" style="stop-color:#e8ff00;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#aaff00;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <!-- grid lines -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.15" opacity="0.08"/>
     </pattern>
   </defs>
-
-  <!-- BG -->
   <rect width="900" height="280" fill="url(#bg)"/>
   <rect width="900" height="280" fill="url(#grid)"/>
-
-  <!-- Glow blob -->
   <ellipse cx="720" cy="100" rx="200" ry="140" fill="#e8ff00" opacity="0.04"/>
   <ellipse cx="150" cy="220" rx="120" ry="80" fill="#7c3aed" opacity="0.06"/>
-
-  <!-- Big number watermark -->
-  <text x="560" y="260" font-family="Georgia, serif" font-size="260" font-weight="900"
+  <text x="520" y="265" font-family="Georgia, serif" font-size="260" font-weight="900"
         fill="#ffffff" opacity="0.025" letter-spacing="-10">AJ</text>
-
-  <!-- Availability pill -->
-  <rect x="48" y="44" width="140" height="26" rx="13" fill="none" stroke="#e8ff00" stroke-width="1" opacity="0.6"/>
+  <rect x="48" y="44" width="210" height="26" rx="13" fill="none" stroke="#e8ff00" stroke-width="1" opacity="0.6"/>
   <circle cx="64" cy="57" r="4" fill="#e8ff00">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="76" y="62" font-family="'Courier New', monospace" font-size="10" fill="#e8ff00" letter-spacing="1.5">AVAILABLE</text>
-
-  <!-- Main name -->
+  <text x="76" y="62" font-family="'Courier New', monospace" font-size="10" fill="#e8ff00" letter-spacing="1.5">AVAILABLE FOR PROJECTS</text>
   <text x="48" y="150" font-family="Georgia, serif" font-size="82" font-weight="900"
         fill="#f0ede8" letter-spacing="-3" opacity="0.95">AJJLAL</text>
   <text x="48" y="220" font-family="Georgia, serif" font-size="82" font-weight="900"
         fill="none" stroke="url(#accent)" stroke-width="1.5" letter-spacing="-3" opacity="0.9">AHMED</text>
-
-  <!-- Role tag -->
   <text x="52" y="255" font-family="'Courier New', monospace" font-size="11"
-        fill="#5a5a6e" letter-spacing="3">FULL STACK ENGINEER  ·  KARACHI, PK  ·  TURINGOID</text>
-
-  <!-- Right side accent lines -->
+        fill="#5a5a6e" letter-spacing="3">FULL STACK DEVELOPER  ·  KARACHI, PK  ·  TURINGOID</text>
   <line x1="820" y1="40" x2="870" y2="40" stroke="#e8ff00" stroke-width="1" opacity="0.5"/>
   <line x1="830" y1="50" x2="870" y2="50" stroke="#e8ff00" stroke-width="1" opacity="0.3"/>
   <line x1="845" y1="60" x2="870" y2="60" stroke="#e8ff00" stroke-width="1" opacity="0.15"/>
-
-  <!-- Bottom bar -->
   <rect x="0" y="272" width="900" height="8" fill="url(#accent)"/>
 </svg>

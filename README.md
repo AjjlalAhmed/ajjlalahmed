@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ajjlal Ahmed" />
+<img src="./assets/hero.svg" width="100%" alt="Ajjlal Ahmed — Full Stack Developer" />
 
 </div>
 
@@ -8,11 +8,15 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ajjlalahmed.netlify.app-050507?style=flat-square&logo=firefox&logoColor=e8ff00&labelColor=050507)](https://ajjlalahmed.netlify.app/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/ajjlalahmed-050507?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=050507)](https://www.linkedin.com/in/ajjlalahmed)&nbsp;&nbsp;
-[![Fiverr](https://img.shields.io/badge/ajjlal__ahmed-050507?style=flat-square&logo=fiverr&logoColor=1DBF73&labelColor=050507)](https://www.fiverr.com/ajjlal_ahmed)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/ajjlalahmed48-050507?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=050507)](mailto:ajjlalahmed48@gmail.com)&nbsp;&nbsp;
-[![Visitors](https://komarev.com/ghpvc/?username=ajjlalahmed&style=flat-square&color=e8ff00&labelColor=050507&label=visitors)](https://github.com/ajjlalahmed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050507?style=flat-square&logo=firefox&logoColor=e8ff00&labelColor=050507)](https://ajjlalahmed.netlify.app/)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-050507?style=flat-square&logo=github&logoColor=ffffff&labelColor=050507)](http://github.com/AjjlalAhmed)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050507?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=050507)](https://www.linkedin.com/in/ajjlalahmed/)&nbsp;&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-050507?style=flat-square&logo=fiverr&logoColor=1DBF73&labelColor=050507)](https://www.fiverr.com/ajjlal_ahmed)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-050507?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=050507)](mailto:ajjlalahmed48@gmail.com)
+
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=ajjlalahmed&style=flat-square&color=e8ff00&labelColor=050507&label=visitors)](https://github.com/AjjlalAhmed)
 
 </div>
 
@@ -22,9 +26,13 @@
 
 <br/>
 
-> *"Privacy is not about hiding — it's about choice."*
+> *"Web development virtuoso, turning ideas into digital masterpieces."*
 
-I'm a self-taught full stack engineer from **Karachi, Pakistan**, currently engineering at **Turingoid**. I build privacy-first digital products that respect users. 4+ years deep in Vue.js, Node.js, and end-to-end encryption. I debug to guitar solos. I ship things that matter.
+I'm a full-stack web developer passionate about crafting fast, secure, and user-friendly web applications. Whether it's frontend design or backend logic, I love building tools that are both functional and delightful to use.
+
+My recent work includes **FastTempMail**, a privacy-focused temporary email service built for performance, and several other SaaS and side projects. I enjoy working on real-world problems — especially ones that help people save time, stay secure, or automate the boring stuff.
+
+I'm part of a small startup (**Turingoid**), actively contributing across both frontend and backend — from architecture to pixel-perfect UI. It's a wild ride, and I'm all in for the growth, learning, and late-night debugging. Outside of work, I'm usually tinkering with new ideas or jamming on my guitar 🎸.
 
 <br/>
 
@@ -40,13 +48,20 @@ I'm a self-taught full stack engineer from **Karachi, Pakistan**, currently engi
 <table border="0" cellpadding="0" cellspacing="12">
 <tr>
 <td>
-<a href="https://fasttempmail.com" target="_blank">
+<a href="https://fasttempmail.com/" target="_blank">
 <img src="./assets/project-fasttempmail.svg" width="440" alt="FastTempMail" />
 </a>
 </td>
 <td>
-<a href="https://imgshrnk.com" target="_blank">
-<img src="./assets/project-imgshrnk.svg" width="440" alt="imgshrnk" />
+<a href="https://orderain.com/" target="_blank">
+<img src="./assets/project-orderain.svg" width="440" alt="Orderain" />
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://www.turingoid.com/" target="_blank">
+<img src="./assets/project-turingoid.svg" width="440" alt="Turingoid" />
 </a>
 </td>
 </tr>
@@ -69,11 +84,13 @@ I'm a self-taught full stack engineer from **Karachi, Pakistan**, currently engi
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0D1117?style=for-the-badge&logo=nuxt.js&logoColor=00C58E)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Bun](https://img.shields.io/badge/Bun-0D1117?style=for-the-badge&logo=bun&logoColor=fbf0df)&nbsp;
+![Hono](https://img.shields.io/badge/Hono-0D1117?style=for-the-badge&logo=hono&logoColor=E36002)&nbsp;
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)&nbsp;
-![WebAssembly](https://img.shields.io/badge/WebAssembly-0D1117?style=for-the-badge&logo=webassembly&logoColor=654FF0)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 </div>
 
@@ -100,25 +117,116 @@ I'm a self-taught full stack engineer from **Karachi, Pakistan**, currently engi
 <tr>
 <td width="15%" align="right" valign="top"><sub><code>NOW</code></sub></td>
 <td width="3%" align="center" valign="top"><sub>▸</sub></td>
-<td width="82%"><b>Full Stack Engineer</b> — Turingoid<br/><sub>Building production-grade full-stack applications. Vue.js · Node.js · MySQL</sub></td>
+<td width="82%"><b>Full Stack Engineer</b> — <a href="https://www.turingoid.com/">Turingoid</a><br/><sub>Contributing across frontend and backend — architecture, pixel-perfect UI, and everything in between. Vue.js · Node.js · Tailwind</sub></td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td align="right" valign="top"><sub><code>PREV</code></sub></td>
 <td align="center" valign="top"><sub>▸</sub></td>
-<td><b>Lead Full Stack Developer</b> — WebOptix <sub>(Swiss Agency)</sub><br/><sub>Led full-stack development for international clients with Swiss quality standards</sub></td>
+<td><b>Lead Full Stack Developer</b> — WebOptix <sub>(Swiss Agency)</sub><br/><sub>Led full-stack development for international clients with Swiss quality standards. Delivered premium web solutions across the entire stack.</sub></td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td align="right" valign="top"><sub><code>PREV</code></sub></td>
 <td align="center" valign="top"><sub>▸</sub></td>
-<td><b>Full Stack Developer</b> — Orderain<br/><sub>Feature development across frontend and backend product systems</sub></td>
+<td><b>Full Stack Developer</b> — <a href="https://orderain.com/">Orderain</a><br/><sub>Built and shipped the no-code e-commerce platform — template builder, store management, and full-stack feature development.</sub></td>
 </tr>
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td align="right" valign="top"><sub><code>ALWAYS</code></sub></td>
 <td align="center" valign="top"><sub>▸</sub></td>
-<td><b>Freelancer ⭐⭐⭐⭐⭐</b> — Fiverr<br/><sub>5-star rated · Vue.js, Node.js, custom web apps for global clients</sub></td>
+<td><b>Freelancer ⭐⭐⭐⭐⭐</b> — <a href="https://www.fiverr.com/ajjlal_ahmed">Fiverr</a><br/><sub>5-star rated across 14+ reviews. Vue.js, Node.js, custom web apps — serving clients from 🇩🇰 🇨🇭 🇬🇧 🇩🇪 🇷🇴 🇲🇻 and more.</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<br/>
+
+<img src="./assets/testimonials-header.svg" width="100%" alt="Testimonials" />
+
+<br/>
+
+<div align="center">
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+> *"Must be a pro Vue developer with this amount of expertise"*
+> 
+> — **@frihauge** 🇩🇰 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Ajjlal is a true legend and hard working developer. I keep going back to him, because of the effort and excellent job."*
+> 
+> — **@nulllq** 🇩🇰 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"This dude is absolutely awesome, he had to do so much in a short time and did it awesome!!! Would order again!!!!"*
+> 
+> — **@cam_erji12** 🇨🇭 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Delivered the work perfectly much quicker than expected, with highly professional clean work."*
+> 
+> — **@suh3yl** 🇲🇻 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Very hardworking and motivated programmer. He was patient with all my suggestions and feedback. I would hire again."*
+> 
+> — **@brianerdelyi** 🇧🇲 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Very talented Vue frontend dev"*
+> 
+> — **@frihauge** 🇩🇰 &nbsp; ⭐⭐⭐⭐⭐
+
+</td>
+<td width="50%" valign="top">
+
+> *"Amazing individual, replies instantly and did everything I requested."*
+> 
+> — **@zmusad** 🇬🇧 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Very fast and professional. Recommended!"*
+> 
+> — **@whitebrand650** 🇷🇴 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Super effective and a reliable team worker. Easy to communicate with and understands clients situation."*
+> 
+> — **@suh3yl** 🇲🇻 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Best experience for quick fixes."*
+> 
+> — **@suh3yl** 🇲🇻 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Very friendly and indeed, provides quality and efficient work."*
+> 
+> — **@suh3yl** 🇲🇻 &nbsp; ⭐⭐⭐⭐⭐
+
+<br/>
+
+> *"Everything met our expectations."*
+> 
+> — **@christianjmader** 🇩🇪 &nbsp; ⭐⭐⭐⭐⭐
+
+</td>
 </tr>
 </table>
 </div>
@@ -142,4 +250,4 @@ I'm a self-taught full stack engineer from **Karachi, Pakistan**, currently engi
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Let's build something extraordinary" />
